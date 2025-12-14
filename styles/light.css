@@ -16,7 +16,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-  :root{
+  :root {
     --title-color: #FFC2E6;
     --text-color: #353430;
     --sub-text-color: #353430;
